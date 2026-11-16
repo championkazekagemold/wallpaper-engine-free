@@ -31,9 +31,7 @@ The goal is to provide an accessible wallpaper experience with a clean interface
 - 🌌 Expanding wallpaper collection
 - 🆓 Free and open-source project
 
-## 📸 Preview
 
-<p align="center">   \<i>Application screenshots coming soon.</i> </p>
 
 ## 🛠️ Installation
 
