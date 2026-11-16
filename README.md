@@ -29,7 +29,7 @@ The goal is to provide an accessible wallpaper experience with a clean interface
 
 ## 📸 Preview
 
-\<p align="center">   \<i>Application screenshots coming soon.\</i> \</p>
+<p align="center">   \<i>Application screenshots coming soon.</i> </p>
 
 ## 🛠️ Installation
 
@@ -66,8 +66,8 @@ See the `LICENSE` file for licensing information.
 
 ---
 
-\<p align="center">
+<p align="center">
 &#x20; Made with ❤️ for desktop customization.
-&#x20; \<br>
-&#x20; \<b>Make your desktop alive. ✨\</b>
-\</p>
+&#x20; <br>
+&#x20; <b>Make your desktop alive. ✨\</b>
+</p>
