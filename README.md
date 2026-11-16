@@ -6,6 +6,8 @@
 
 <p align="center">   <a href="./releases/latest">     <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=00A843" alt="Download Now">   </a> </p>
 
+ <img src="jaguar.jpg">
+
 
 
 <p align="center">   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows">   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge">   <img src="https://img.shields.io/badge/Price-Free-purple?style=for-the-badge"> </p>
